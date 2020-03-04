@@ -1,0 +1,18 @@
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\bin\Debug\ExemploTeclas.exe.config
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\bin\Debug\ExemploTeclas.exe
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\bin\Debug\ExemploTeclas.pdb
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.Form1.resources
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.exe
+C:\Users\Aluno\source\repos\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.pdb
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\bin\Debug\ExemploTeclas.exe.config
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\bin\Debug\ExemploTeclas.exe
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\bin\Debug\ExemploTeclas.pdb
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.csprojAssemblyReference.cache
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.Form1.resources
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.Properties.Resources.resources
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.csproj.GenerateResource.cache
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.exe
+C:\Users\Gabriel Bova\source\repos\3eminfo\ExemploTeclas\ExemploTeclas\obj\Debug\ExemploTeclas.pdb
