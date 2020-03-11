@@ -63,9 +63,9 @@ namespace ExemploTeclas.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap chicken {
+        internal static System.Drawing.Bitmap galinha {
             get {
-                object obj = ResourceManager.GetObject("chicken", resourceCulture);
+                object obj = ResourceManager.GetObject("galinha", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

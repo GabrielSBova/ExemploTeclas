@@ -19,26 +19,38 @@ namespace ExemploTeclas
 
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == 'w')
+
+            if (e.KeyChar == 'w') 
             {
-                galinha.Top = galinha.Top + 10;
+                pictureBox1.Top = pictureBox1.Top - 10;
                 return;
             }
             if (e.KeyChar == 's')
             {
-                galinha.Top = galinha.Top - 10;
+                pictureBox1.Top = pictureBox1.Top + 10;
                 return;
             }
             if (e.KeyChar == 'a')
             {
-                galinha.Top = galinha.Left - 10;
+                pictureBox1.Left = pictureBox1.Left - 10;
                 return;
             }
             if (e.KeyChar == 'd')
             {
-                galinha.Top = galinha.Left + 10;
+                pictureBox1.Left = pictureBox1.Left + 10;
                 return;
             }
+            
+        }
+
+        private void PictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
